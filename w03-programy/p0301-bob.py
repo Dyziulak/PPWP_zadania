@@ -1,6 +1,7 @@
 import turtle
 
 def main():
+    # Tworzymy okno graficzne
     win = turtle.Screen()
   
     bob = turtle.Turtle()
